@@ -1,5 +1,12 @@
 ## Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/prathamTamrakar/count.svg)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!--
 **prathamTamrakar/prathamTamrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
