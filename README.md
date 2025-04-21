@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://wakatime.com/badge/user/768abf5b-2c63-4a9d-86f8-89185e46729f.svg" alt="prathamTamrakar" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamTamrakar" alt="prathamTamrakar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamTamrakar" alt="prathamTamrakar" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
