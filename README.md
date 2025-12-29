@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamTamrakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=prathamTamrakar&hide_border=false" alt="GitHub Streak" height="180em"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamtamrakar&show_icons=true&theme=aura&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages"/>  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamtamrakar&show_icons=true&locale=en&layout=compact" alt="prathamtamrakar" height="180em"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamtamrakar&show_icons=true&locale=en&layout=compact" alt="prathamtamrakar" height="180em"/> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamTamrakar" alt="Profile Summary" width="100%"/>
 
 ## ✍️ Random Dev Quote
